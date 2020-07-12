@@ -1,5 +1,5 @@
 # Coldest-Day
-PROJECT TITLE: Gray-Scale
+PROJECT TITLE: Coldest-Day
 
 PURPOSE OF PROJECT: The purpose of the project is to find the coldest day in the given day, month or year. 
 
